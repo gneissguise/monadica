@@ -4,6 +4,7 @@
 
 ### (simple-indivisible-clojure-webhosting)
 [![bb compatible](https://raw.githubusercontent.com/babashka/babashka/master/logo/badge.svg)](https://babashka.org)
+
 monadica is a clojure based application for easy-peasy virtual webhosting.
 
 
