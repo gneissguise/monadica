@@ -1,24 +1,39 @@
 # monadica
+
+### (simple-indivisible-clojure-webhosting)
+
+monadica is a clojure based application for easy-peasy virtual webhosting.
 [![bb compatible](https://raw.githubusercontent.com/babashka/babashka/master/logo/badge.svg)](https://babashka.org)
 
-Clojure / Clojurescript lightweight webhosting and virtual devops
 
+I am a RackNerd vps host reseller/affiliate.   
 
-Basic roadmap:
+These are some more statements.
+
+My goal is to script monadica into the RackNerd ecosystem, using mainly clojure tooling, and make it an open option for everyone using the host.
+
+I will eventually build a storefront for monadica.com to sell hosting and professional support services, but until then I can sell basic domain / vps products through my affiliate link: https://my.racknerd.com/aff.php?aff=6796
+
+## 2023 roadmap:
 1. Build main blogging / mail list / rss feed site for communicating progress and generating interest
 2. Build initial mvp for the initial application skeleton / scaffold
 3. Live REPL
-4. Progress check: Identify additional ideas to explore featurewise
+4. *Progress check:* Identify additional ideas to explore featurewise
 5. Basic CI 
 6. Basic Orchestration
 7. Basic IDE tools
-8. Progress check: Taking care of business domain; Assessing
+8. *Progress check:* Taking care of business domain; Assessing
 9. Domain / Schema
 10. Business Rules
 11. Modules
+12. *Progress check:* And doing the other business: Selling
+13. storefront mvp
+14. create product packages
+15. market and advertise
 
-And then maybe if you're good on the way home we'll stop by Dairy Queen.
-==
+## :icecream: And then maybe if you're good on the way home we'll stop by Dairy Queen.
+
+
 
 ## Installation
 
