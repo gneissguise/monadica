@@ -5,8 +5,9 @@
 ### (simple-indivisible-clojure-webhosting)
 [![bb compatible](https://raw.githubusercontent.com/babashka/babashka/master/logo/badge.svg)](https://babashka.org)
 
-monadica is a clojure based application for easy-peasy virtual webhosting.
+These are some words.
 
+monadica is a clojure based application for easy-peasy virtual webhosting.
 
 I am a RackNerd vps host reseller/affiliate.   
 
